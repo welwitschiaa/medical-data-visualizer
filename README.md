@@ -1,5 +1,5 @@
 # Medical Data Visualizer
-This assignment was set within the Data Analysis with Python Projects on freeCodeCamp.org
+This assignment was set within the Data Analysis with Python Projects on freeCodeCamp.org.
 Goal is to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.
 #### Data description
 The data used is medical examination data provided by freeCodeCamp.org.
